@@ -23,6 +23,7 @@ public class string_functions {
 		driver.findElement(By.id("priceblock_ourprice"));
 		String price= "15.98";
 		System.out.println("the price of an item is " +price );
+		System.out.println("my name is himani");
 		driver.close();
 		
 	}
