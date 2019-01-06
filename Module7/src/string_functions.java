@@ -25,6 +25,6 @@ public class string_functions {
 		System.out.println("the price of an item is " +price );
 		System.out.println("my name is himani1");
 		driver.close();
-		
+		System.out.println("my name is prateek12");
 	}
 }
